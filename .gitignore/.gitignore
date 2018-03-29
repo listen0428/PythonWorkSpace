@@ -1,0 +1,6 @@
+build
+dist
+.idea
+.setting
+__pycache__
+*.py
