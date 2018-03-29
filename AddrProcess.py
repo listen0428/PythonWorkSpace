@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 __author__ = 'few'
 # 创建时间 2018/3/4 16:39 
 import xlrd,xlwt,sys
@@ -36,4 +36,3 @@ class AddrProcess():
 if __name__ == "__main__":
     ap = AddrProcess()
     ap.addrInit()
-    # ap.writeExcel(5,5,10)
